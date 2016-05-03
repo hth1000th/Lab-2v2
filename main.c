@@ -4,6 +4,7 @@
 #include "queue.h"
 #include "scheduler.h"
 #include "switch.h"
+// This is a test comment
 
 int main(void)
 {
